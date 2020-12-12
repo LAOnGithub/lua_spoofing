@@ -1,0 +1,14 @@
+{
+    "ip": "0.0.0.0",
+    "city": "Unknown",
+    "region": "Unknown",
+    "country_name": "Unknown",
+    "time_zone": {
+        "name": "Unknown",
+        "abbr": "Unknown",
+        "offset": "+0100",
+        "is_dst": false,
+        "current_time": "Unknown"
+    },
+    "emoji_flag": "Unknown"
+}
